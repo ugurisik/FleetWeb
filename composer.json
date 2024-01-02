@@ -1,0 +1,25 @@
+{
+    "name": "ugr/new",
+    "description": "Nope",
+    "type": "library",
+    "require": {
+        "thingengineer/mysqli-database-class": "dev-master",
+        "phpmailer/phpmailer": "dev-master",
+        "maximebf/debugbar": "^1.19",
+        "fakerphp/faker": "*"
+    },
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Core\\": "core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ugurisik",
+            "email": "peniaugur80@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

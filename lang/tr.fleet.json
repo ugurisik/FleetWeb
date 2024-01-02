@@ -1,0 +1,29 @@
+{
+    "site_name": "Safari Fleet - Filo Yönetim Sistemi",
+    "site_description": "Safari Fleet is a family owned and operated business that has been serving the greater Los Angeles area for over 30 years. We specialize in the sales and service of new and used wheelchair accessible vans, full size vans, and minivans. We also offer a full line of mobility products such as hand controls, transfer seats, and scooter lifts. We are a certified BraunAbility dealer and a member of the National Mobility Equipment Dealers Association (NMEDA).",
+    "site_keywords": "wheelchair accessible vans, full size vans, minivans, mobility products, hand controls, transfer seats, scooter lifts, BraunAbility, National Mobility Equipment Dealers Association, NMEDA",
+    "menu_items": {
+        "menu_title": "Safari Fleet",
+        "cars_title": "Araçlar",
+        "cars_list": "Araç Listesi",
+        "cars_add": "Araç Ekle",
+        "operators_title": "Operators",
+        "operators_list": "Operators List",
+        "operators_add": "Add Operator",
+        "branch_title": "Branches",
+        "branch_list": "Branches List",
+        "branch_add": "Add Branch",
+        "branch_person_list": "Persons List",
+        "branch_person_add": "Add Person",
+        "crash_title": "Crashes",
+        "fuel_title": "Fuel",
+        "tickets_title": "Tickets",
+        "trips_title": "Trips",
+        "issues_title": "Issues",
+        "services_title": "Services & Repairs",
+        "services_list": "Services List",
+        "services_add": "Add Service",
+        "services_type_list": "Service Types List",
+        "services_type_add": "Add Service Type"
+    }
+}

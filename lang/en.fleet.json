@@ -1,0 +1,54 @@
+{
+    "site_name": "Safari Fleet - Fleet Management System",
+    "site_description": "Safari Fleet is a family owned and operated business that has been serving the greater Los Angeles area for over 30 years. We specialize in the sales and service of new and used wheelchair accessible vans, full size vans, and minivans. We also offer a full line of mobility products such as hand controls, transfer seats, and scooter lifts. We are a certified BraunAbility dealer and a member of the National Mobility Equipment Dealers Association (NMEDA).",
+    "site_keywords": "wheelchair accessible vans, full size vans, minivans, mobility products, hand controls, transfer seats, scooter lifts, BraunAbility, National Mobility Equipment Dealers Association, NMEDA",
+    "site_author": "Safari Fleet",
+    "login_page": {
+        "title": "Safari Fleet - Login",
+        "subtitle": "Safari FLEET made by Safari GPS",
+        "welcome": "Welcome to Safari Fleet",
+        "welcome_sub": "Sign in to continue to Safari Fleet.",
+        "username": "Username",
+        "username_placeholder": "Enter your username",
+        "password": "Password",
+        "password_placeholder": "Enter your password",
+        "login": "Login"
+    },
+    "alert": {
+        "success": "Success",
+        "error": "Error",
+        "warning": "Warning",
+        "info": "Info"
+    },
+    "privileges": {
+        "0": "Super Admin",
+        "1": "Admin",
+        "2": "Branch Manager",
+        "3": "Driver"
+    },
+    "messages": {},
+    "menu_items": {
+        "menu_title": "Safari Fleet",
+        "cars_title": "Cars",
+        "cars_list": "Cars List",
+        "cars_add": "Add Car",
+        "operators_title": "Operators",
+        "operators_list": "Operators List",
+        "operators_add": "Add Operator",
+        "branch_title": "Branches",
+        "branch_list": "Branches List",
+        "branch_add": "Add Branch",
+        "branch_person_list": "Persons List",
+        "branch_person_add": "Add Person",
+        "crash_title": "Crashes",
+        "fuel_title": "Fuel",
+        "tickets_title": "Tickets",
+        "trips_title": "Trips",
+        "issues_title": "Issues",
+        "services_title": "Services & Repairs",
+        "services_list": "Services List",
+        "services_add": "Add Service",
+        "services_type_list": "Service Types List",
+        "services_type_add": "Add Service Type"
+    }
+}
